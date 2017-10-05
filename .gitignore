@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+npm-debug.*
+
+node_modules
+build/
+yarn-error.log
+*.tgz
+.DS_Store
+*.log
+
+
+.idea
